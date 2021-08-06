@@ -1,0 +1,15 @@
+{
+  "name": "myecomm",
+  "version": "1.0.0",
+  "description": "\"ecomm application\"",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "yami",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.13.5"
+  }
+}
